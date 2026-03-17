@@ -1,0 +1,1 @@
+Orbit is an AI-powered desktop assistant designed to simplify tasks, provide real-time information, and interact seamlessly through voice and text. Built for efficiency, it can control system operations, support multiple languages, and enhance everyday productivity.”
